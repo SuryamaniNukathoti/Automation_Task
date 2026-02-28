@@ -30,8 +30,8 @@ Test Scenarios Automated:
 - Verify logout functionality
 
 Execution Proof:
-- Screenshots are provided in the Screenshots folder.
-- Screen recording video link is shared separately.
+- Screenshot is provided.
+- Video record is shared separately.
 
 Browser & Environment:
 - Chrome Browser
