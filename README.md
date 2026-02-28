@@ -16,12 +16,12 @@ Project Structure:
 - pom.xml → Contains required dependencies
 
 How to Run the Project:
-1. Download or clone the project.
-2. Open the project in Eclipse IDE.
-3. Right click on the project → Maven → Update Project.
-4. Navigate to src/test/java.
-5. Open the main class file.
-6. Right click → Run As → Java Application.
+1. Clone the repository
+2. Open in Eclipse
+3. Right-click project → Maven → Update
+4. Go to src/test/java
+5. Open `FlipkartTest.java`
+6. Right-click → Run as Java Application
 
 Test Scenarios Automated:
 - Verify login functionality
